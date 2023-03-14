@@ -8,9 +8,13 @@
 <h2>About Me</h2>
 
 I am a Fullstack developer | UI/UX designer, with over 5 years of experience in different development platforms. I am passionate in solution development :100:
-<div>
+<!-- social links -->
 
-</div>
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simonmuia/)
+ [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/simonmuia)
+ [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@simonmuia38)
+ [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/simonmuia38)
+
 <hr/>
 
 <h2>Languages</h2>
