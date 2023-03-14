@@ -1,21 +1,73 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey there 👋!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey there 👋!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
+<h1 align="center" style="display:flex;gap:10px;align-items:center">I'm <span style="color:#5DBE7C;font-size:30px;font-weight:bold;">Simon Muia</span></h1>
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angula" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="45" height="45"/>
-          
-          
-</p>
+<p align="center">Welcome to my Github Profile.</p>
 
+<h2>About Me</h2>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=simonmuia&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/simonmuia/github-readme-stats#gh-dark-mode-only)
+I am a Fullstack developer | UI/UX designer, with over 5 years of experience in different development platforms. I am passionate in solution development :100:
+<div>
+
+</div>
+<hr/>
+
+<h2>Languages</h2>
+
+<div align="left" style="display:flex; gap:1rem;margin:2rem; background-color:#efefef; padding:10px; border-radius:5px;">
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
+</div>
+
+<h2>Frameworks</h2>
+
+<div align="left" style="display:grid; gap:4rem; margin-bottom:2rem;background-color:#fefefe; padding:30px; border-radius:5px;">
+<div style="grid-row: 1; width:100%;display:flex;justify-content:space-between;gap:10px">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="45"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="45" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" width="45" />
+
+</div>
+<div style="grid-row: 2; width:100%;display:flex;justify-content:flex-start;gap:2rem">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="100" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" width="100" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="50" />
+
+</div>
+<div style="grid-row: 3; width:100%;display:flex;justify-content:flex-start;gap:2rem">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="100" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="45" />
+</div>
+
+<div style="grid-row: 4; width:100%;display:flex;justify-content:flex-start;gap:2rem">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" />
+<img src="https://cdn2.iconfinder.com/data/icons/file-8/128/file_2-512.png" width="45" />
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/3_Xd_Adobe_logo_logos-512.png" width="45" />
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/23_Photoshop_Adobe_logo_logos-512.png" width="45" />
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/8_Premier_Pro_Adobe_logo_logos-512.png" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45" />
+</div>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonmuia&hide_progress=true)](https://github.com/simonmuia/github-readme-stats)
 
