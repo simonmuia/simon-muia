@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey there 👋!&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-<h1 align="center" style="display:flex;gap:10px;align-items:center">I'm <span style="color:#5DBE7C;font-size:30px;font-weight:bold;">Simon Muia</span></h1>
+
+<h1 align="center" style="display:flex;gap:10px;align-items:center">Hi there 👋.I'm <span style="color:#5DBE7C;font-size:30px;font-weight:bold;">Simon Muia</span></h1>
 
 <p align="center">Welcome to my Github Profile.</p>
 
